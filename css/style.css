@@ -1,10 +1,12 @@
 body {
-	font-family: PT Sans Narrow;
+	font-family: "PT Sans Narrow", "Arial", sans-serif;
 	font-size: 14px;
 	color: black;
 	font-weight: bold;
 	line-height: 24px;
 	text-transform: uppercase;
+	/*временный фон*/
+	background-color: #5c5c5c;
 }
 
 .content-title {
